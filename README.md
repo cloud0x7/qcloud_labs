@@ -4,3 +4,4 @@
 
 * [搭建Java Web开发环境](java_web.md)
 * [搭建git服务器](build_git_server.md)
+* [搭建svn服务器](build_svn_server.md)
