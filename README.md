@@ -5,3 +5,4 @@
 * [搭建Java Web开发环境](java_web.md)
 * [搭建git服务器](build_git_server.md)
 * [搭建svn服务器](build_svn_server.md)
+* [基于CentOS搭建个人网盘](base_on_centos_build_personal_network_disk.md)
