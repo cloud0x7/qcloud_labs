@@ -10,3 +10,4 @@
 * [搭建LNMP环境](build_lnmp_server.md)
 * [搭建 Docker 环境](build_docker_environment.md)
 * [搭建基于 HDFS 碎片文件存储服务](build_hdfs.md)
+* [搭建 Node.js 环境](build_nodejs_environment.md)
