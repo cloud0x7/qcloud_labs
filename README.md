@@ -12,3 +12,4 @@
 * [搭建基于 HDFS 碎片文件存储服务](build_hdfs.md)
 * [搭建 Node.js 环境](build_nodejs_environment.md)
 * [搭建 Python 开发环境](build_python_environment.md)
+* [搭建 ShowDoc 文档工具](build_showdoc.md)
