@@ -13,3 +13,4 @@
 * [搭建 Node.js 环境](build_nodejs_environment.md)
 * [搭建 Python 开发环境](build_python_environment.md)
 * [搭建 ShowDoc 文档工具](build_showdoc.md)
+* [基于 CentOS 7 搭建 GitLab](build_gitlab.md)
