@@ -16,3 +16,4 @@
 * [基于 CentOS 7 搭建 GitLab](build_gitlab.md)
 * [iptables 基础](iptables.md)
 * [maven](maven.md)
+* [jenkins](jenkins.md)
